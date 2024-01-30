@@ -27,3 +27,10 @@ Today we are learning Github and Markdow. In the afternoon we will do the comput
 
 ### From the Internet.
 ![Vanilla](https://i5.walmartimages.com/asr/a4e20d16-85bf-4908-8e78-641302f2f58c_1.68a0c72c6e08be43ec69f596b4385aec.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF)
+
+
+## Code.
+
+### Inline code.
+
+We can add a `line` of code
