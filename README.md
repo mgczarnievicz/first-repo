@@ -34,3 +34,9 @@ Today we are learning Github and Markdow. In the afternoon we will do the comput
 ### Inline code.
 
 We can add a `line` of code
+
+### Block code.
+
+```js
+  let cohort = "Vanilla"
+```
