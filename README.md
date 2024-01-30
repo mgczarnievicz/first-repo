@@ -23,5 +23,5 @@ Today we are learning Github and Markdow. In the afternoon we will do the comput
 
 ## Image.
 ### Image in my repo.
-![Harry Potter Image](harry-potter)
+![Harry Potter Image](./harry-potter-1.jpeg)
 
